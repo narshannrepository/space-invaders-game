@@ -1,0 +1,269 @@
+[![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/network/)
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/stargazers/)
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+# การพัฒนาเว็บสำหรับผู้เริ่มต้น - หลักสูตร
+
+เรียนรู้พื้นฐานของการพัฒนาเว็บกับหลักสูตรครอบคลุม 12 สัปดาห์ของเราโดย Microsoft Cloud Advocates แต่ละบทเรียนทั้ง 24 บทเรียนจะเจาะลึก JavaScript, CSS, และ HTML ผ่านโปรเจกต์ปฏิบัติ เช่น เทอร์ราเรียม, ส่วนขยายเบราว์เซอร์ และเกมอวกาศ พร้อมส่วนร่วมกับแบบทดสอบ, การสนทนา และงานปฏิบัติ พัฒนาทักษะและเพิ่มประสิทธิภาพการเก็บความรู้ของคุณด้วยวิธีการสอนผ่านโปรเจกต์ที่ได้ผล เริ่มต้นเส้นทางการเขียนโค้ดของคุณวันนี้!
+
+เข้าร่วมชุมชน Discord Azure AI Foundry
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+ทำตามขั้นตอนเหล่านี้เพื่อเริ่มใช้ทรัพยากรเหล่านี้:
+1. **Fork ที่เก็บ**: คลิก [![GitHub forks](https://img.shields.io/github/forks/microsoft/Web-Dev-For-beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/fork)
+2. **โคลนที่เก็บ**:   `git clone https://github.com/microsoft/Web-Dev-For-Beginners.git`
+3. [**เข้าร่วม Azure AI Foundry Discord และพบปะผู้เชี่ยวชาญและนักพัฒนาร่วมกัน**](https://discord.com/invite/ByRwuEEgH4)
+
+### 🌐 การสนับสนุนหลายภาษา
+
+#### สนับสนุนผ่าน GitHub Action (อัตโนมัติ & อัปเดตเสมอ)
+
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh-CN/README.md) | [Chinese (Traditional, Hong Kong)](../zh-HK/README.md) | [Chinese (Traditional, Macau)](../zh-MO/README.md) | [Chinese (Traditional, Taiwan)](../zh-TW/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Kannada](../kn/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Malayalam](../ml/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Nigerian Pidgin](../pcm/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../pt-BR/README.md) | [Portuguese (Portugal)](../pt-PT/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](../sl/README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Telugu](../te/README.md) | [Thai](./README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)
+
+> **ต้องการโคลนแบบโลคัล?**
+
+> ที่เก็บนี้มีการแปลมากกว่า 50 ภาษา ซึ่งจะเพิ่มขนาดการดาวน์โหลดอย่างมาก หากต้องการโคลนโดยไม่มีการแปล ให้ใช้ sparse checkout:
+> ```bash
+> git clone --filter=blob:none --sparse https://github.com/microsoft/Web-Dev-For-Beginners.git
+> cd Web-Dev-For-Beginners
+> git sparse-checkout set --no-cone '/*' '!translations' '!translated_images'
+> ```
+> ซึ่งจะให้คุณทุกอย่างที่จำเป็นสำหรับหลักสูตรด้วยการดาวน์โหลดที่รวดเร็วขึ้นมาก
+<!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
+
+**ถ้าคุณต้องการให้เพิ่มการสนับสนุนภาษาแปลอื่น ๆ รายการภาษาที่สนับสนุนอยู่ [ที่นี่](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
+
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/microsoft/Web-Dev-For-Beginners)
+
+#### 🧑‍🎓 _คุณเป็นนักเรียนหรือไม่?_
+
+เยี่ยมชม [**หน้า Student Hub**](https://docs.microsoft.com/learn/student-hub/?WT.mc_id=academic-77807-sagibbon) ซึ่งคุณจะพบทรัพยากรสำหรับผู้เริ่มต้น, ชุดนักเรียน และวิธีรับบัตรกำนัลประกาศนียบัตรฟรี นี่คือหน้าที่คุณควรกดบุ๊กมาร์กและตรวจสอบเป็นระยะเนื่องจากเราจะเปลี่ยนเนื้อหาทุกเดือน
+
+### 📣 ประกาศ - ความท้าทายโหมด GitHub Copilot Agent ใหม่ให้ทำ!
+
+เพิ่มความท้าทายใหม่ ให้ค้นหา "GitHub Copilot Agent Challenge 🚀" ในบทส่วนใหญ่ เป็นความท้าทายใหม่สำหรับคุณในการใช้ GitHub Copilot และโหมด Agent หากคุณไม่เคยใช้โหมด Agent มาก่อน โหมดนี้สามารถไม่เพียงแค่สร้างข้อความแต่ยังสามารถสร้างและแก้ไขไฟล์, รันคำสั่ง และอื่น ๆ
+
+### 📣 ประกาศ - _โปรเจกต์ใหม่ที่สร้างโดย Generative AI_
+
+เพิ่มโปรเจกต์ AI Assistant ใหม่เพิ่งเพิ่มเข้ามา ลองดูได้ที่ [โปรเจกต์](./9-chat-project/README.md)
+
+### 📣 ประกาศ - _หลักสูตรใหม่_ สำหรับ Generative AI สำหรับ JavaScript เพิ่งเปิดตัว
+
+อย่าพลาดหลักสูตร Generative AI ใหม่ของเรา!
+
+เยี่ยมชม [https://aka.ms/genai-js-course](https://aka.ms/genai-js-course) เพื่อเริ่มต้น!
+
+![Background](../../translated_images/th/background.148a8d43afde5730.webp)
+
+- บทเรียนครอบคลุมทุกอย่างตั้งแต่พื้นฐานจนถึง RAG
+- โต้ตอบกับตัวละครประวัติศาสตร์โดยใช้ GenAI และแอปคู่ของเรา
+- เนื้อเรื่องสนุกและน่าติดตาม คุณจะได้เดินทางข้ามเวลา!
+
+![character](../../translated_images/th/character.5c0dd8e067ffd693.webp)
+
+
+แต่ละบทเรียนประกอบด้วยงานที่ต้องทำ, การตรวจสอบความรู้ และความท้าทายเพื่อแนะนำการเรียนรู้หัวข้อต่าง ๆ เช่น:
+- การตั้งค่าและออกแบบ prompt
+- การสร้างแอปข้อความและรูปภาพ
+- แอปค้นหา
+
+เยี่ยมชม [https://aka.ms/genai-js-course](https://aka.ms/genai-js-course) เพื่อเริ่มต้น!
+
+
+
+## 🌱 การเริ่มต้นใช้งาน
+
+> **ครูผู้สอน** เราได้ [รวมคำแนะนำ](for-teachers.md) เกี่ยวกับวิธีใช้หลักสูตรนี้ เราต้องการรับคำติชมจากคุณ [ในฟอรัมอภิปรายของเรา](https://github.com/microsoft/Web-Dev-For-Beginners/discussions/categories/teacher-corner)!
+
+**[ผู้เรียน](https://aka.ms/student-page/?WT.mc_id=academic-77807-sagibbon)** สำหรับแต่ละบทเรียน เริ่มด้วยแบบทดสอบก่อนบรรยาย แล้วอ่านเนื้อหาบรรยาย, ทำกิจกรรมต่าง ๆ และตรวจสอบความเข้าใจด้วยแบบทดสอบหลังบรรยาย
+
+เพื่อเพิ่มประสบการณ์การเรียนรู้ของคุณ เชื่อมต่อกับเพื่อนร่วมชั้นเพื่อทำโปรเจกต์ร่วมกัน! เราส่งเสริมการสนทนาใน [ฟอรัมอภิปราย](https://github.com/microsoft/Web-Dev-For-Beginners/discussions) ซึ่งทีมผู้ดูแลของเราจะพร้อมตอบคำถามของคุณ
+
+เพื่อการศึกษาต่อเนื่อง เราขอแนะนำให้สำรวจ [Microsoft Learn](https://learn.microsoft.com/users/wirelesslife/collections/p1ddcy5jwy0jkm?WT.mc_id=academic-77807-sagibbon) สำหรับเนื้อหาเพิ่มเติม
+
+### 📋 การตั้งค่าสภาพแวดล้อมของคุณ
+
+หลักสูตรนี้มีสภาพแวดล้อมสำหรับการพัฒนาพร้อมให้ใช้งาน! เมื่อต้องการเริ่มต้น คุณสามารถเลือกใช้หลักสูตรนี้ใน [Codespace](https://github.com/features/codespaces/) (_สภาพแวดล้อมบนเบราว์เซอร์โดยไม่ต้องติดตั้ง_) หรือในเครื่องของคุณโดยใช้โปรแกรมแก้ไขข้อความ เช่น [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)
+
+#### สร้างที่เก็บของคุณ
+เพื่อความสะดวกในการบันทึกงานของคุณ ควรสร้างสำเนาของที่เก็บนี้โดยคลิกปุ่ม **Use this template** ที่ด้านบนของหน้าเพื่อสร้างที่เก็บใหม่ในบัญชี GitHub ของคุณที่มีสำเนาหลักสูตรนี้
+
+ทำตามขั้นตอนเหล่านี้:
+1. **Fork ที่เก็บ**: คลิกที่ปุ่ม "Fork" ที่มุมบนขวาของหน้านี้
+2. **โคลนที่เก็บ**:   `git clone https://github.com/microsoft/Web-Dev-For-Beginners.git`
+
+#### การใช้งานหลักสูตรใน Codespace
+
+ในสำเนาที่เก็บของคุณที่สร้างไว้ คลิกปุ่ม **Code** และเลือก **Open with Codespaces** ขั้นตอนนี้จะสร้าง Codespace ใหม่ให้คุณทำงานได้
+
+![Codespace](../../translated_images/th/createcodespace.0238bbf4d7a8d955.webp)
+
+#### การใช้งานหลักสูตรในเครื่องของคุณ
+
+ในการรันหลักสูตรนี้บนเครื่องของคุณ คุณจะต้องมีโปรแกรมแก้ไขข้อความ, เบราว์เซอร์ และเครื่องมือบรรทัดคำสั่ง บทเรียนแรกของเรา [แนะนำภาษาโปรแกรมและเครื่องมือ](../../1-getting-started-lessons/1-intro-to-programming-languages) จะนำทางคุณเลือกเครื่องมือที่เหมาะสม
+
+เราขอแนะนำให้ใช้ [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon) ซึ่งมี [Terminal](https://code.visualstudio.com/docs/terminal/basics/?WT.mc_id=academic-77807-sagibbon) ในตัว คุณสามารถดาวน์โหลด Visual Studio Code [ที่นี่](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon)
+
+
+1. โคลนที่เก็บของคุณลงบนเครื่องของคุณได้โดยคลิกที่ปุ่ม **Code** และคัดลอก URL:
+
+    [CodeSpace](./images/createcodespace.png)
+จากนั้น เปิด [Terminal](https://code.visualstudio.com/docs/terminal/basics/?WT.mc_id=academic-77807-sagibbon) ภายใน [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-77807-sagibbon) และรันคำสั่งต่อไปนี้ โดยแทนที่ `<your-repository-url>` ด้วย URL ที่คุณเพิ่งคัดลอกมา:
+
+    ```bash 
+    git clone <your-repository-url>
+    ```
+
+2. เปิดโฟลเดอร์ใน Visual Studio Code คุณสามารถทำได้โดยคลิกที่ **File** > **Open Folder** และเลือกโฟลเดอร์ที่คุณเพิ่งโคลนมา
+
+
+>  ส่วนขยายของ Visual Studio Code ที่แนะนำ:
+>
+> * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&WT.mc_id=academic-77807-sagibbon) - เพื่อดูตัวอย่างหน้า HTML ภายใน Visual Studio Code
+> * [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot&WT.mc_id=academic-77807-sagibbon) - เพื่อช่วยให้คุณเขียนโค้ดได้เร็วขึ้น
+
+## 📂 แต่ละบทเรียนประกอบด้วย:
+
+- สเก็ตช์โน้ตเสริม (ถ้ามี)
+- วิดีโอเสริม (ถ้ามี)
+- แบบทดสอบก่อนเรียน
+- บทเรียนเขียน
+- สำหรับบทเรียนที่เป็นแบบโครงการ มีคำแนะนำทีละขั้นตอนในการสร้างโครงการ
+- การตรวจสอบความรู้
+- ความท้าทาย
+- การอ่านเสริม
+- การบ้าน
+- [แบบทดสอบหลังเรียน](https://ff-quizzes.netlify.app/web/)
+
+> **หมายเหตุเกี่ยวกับแบบทดสอบ**: แบบทดสอบทั้งหมดอยู่ในโฟลเดอร์ Quiz-app รวม 48 แบบทดสอบ แต่ละแบบมีสามคำถาม คุณสามารถเข้าถึงได้ที่ [นี่](https://ff-quizzes.netlify.app/web/) แอปแบบทดสอบสามารถรันแบบออฟไลน์หรือเผยแพร่บน Azure ได้; โปรดปฏิบัติตามคำแนะนำในโฟลเดอร์ `quiz-app`
+
+## 🗃️ บทเรียน
+
+|     |                       ชื่อโปรเจค                       |                            แนวคิดที่สอน                             | เป้าหมายการเรียนรู้                                                                                                                 |                                                         บทเรียนที่เชื่อมโยง                                                          |         ผู้เขียน          |
+| :-: | :------------------------------------------------------: | :--------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
+| 01  |                     Getting Started                      |           บทนำสู่การเขียนโปรแกรมและเครื่องมือที่ใช้ในการทำงาน           | เรียนรู้พื้นฐานของภาษาการเขียนโปรแกรมส่วนใหญ่และเกี่ยวกับซอฟต์แวร์ที่ช่วยให้นักพัฒนามืออาชีพทำงานได้อย่างมีประสิทธิภาพ | [Intro to Programming Languages and Tools of the Trade](./1-getting-started-lessons/1-intro-to-programming-languages/README.md) |         Jasmine         |
+| 02  |                     Getting Started                      |             พื้นฐานของ GitHub รวมถึงการทำงานเป็นทีม                     | วิธีใช้ GitHub ในโปรเจคของคุณ วิธีการทำงานร่วมกับผู้อื่นบนฐานโค้ดเดียวกัน                                                      |                            [Intro to GitHub](./1-getting-started-lessons/2-github-basics/README.md)                             |          Floor          |
+| 03  |                     Getting Started                      |                             การเข้าถึง                                    | เรียนรู้พื้นฐานของการเข้าถึงเว็บ                                                                                                   |                       [Accessibility Fundamentals](./1-getting-started-lessons/3-accessibility/README.md)                       |       Christopher       |
+| 04  |                        JS Basics                         |                         ประเภทข้อมูลใน JavaScript                       | พื้นฐานของประเภทข้อมูลใน JavaScript                                                                                                |                                       [Data Types](./2-js-basics/1-data-types/README.md)                                        |         Jasmine         |
+| 05  |                        JS Basics                         |                         ฟังก์ชันและเมธอด                               | เรียนรู้เกี่ยวกับฟังก์ชันและเมธอดเพื่อจัดการการไหลของตรรกะในแอปพลิเคชัน                                                          |                              [Functions and Methods](./2-js-basics/2-functions-methods/README.md)                               | Jasmine and Christopher |
+| 06  |                        JS Basics                         |                        การตัดสินใจด้วย JS                              | เรียนรู้วิธีสร้างเงื่อนไขในโค้ดของคุณโดยใช้วิธีตัดสินใจ                                                                           |                                 [Making Decisions](./2-js-basics/3-making-decisions/README.md)                                  |         Jasmine         |
+| 07  |                        JS Basics                         |                            อาเรย์และลูป                                | ทำงานกับข้อมูลโดยใช้ arrays และ loops ใน JavaScript                                                                               |                                   [Arrays and Loops](./2-js-basics/4-arrays-loops/README.md)                                    |         Jasmine         |
+| 08  |       [Terrarium](./3-terrarium/solution/README.md)       |                            HTML ในการปฏิบัติ                          | สร้าง HTML เพื่อสร้างเทอร์ราเรียมออนไลน์ โดยเน้นการสร้างเลย์เอาต์                                                                   |                                 [Introduction to HTML](./3-terrarium/1-intro-to-html/README.md)                                 |           Jen           |
+| 09  |       [Terrarium](./3-terrarium/solution/README.md)       |                            CSS ในการปฏิบัติ                           | สร้าง CSS เพื่อจัดแต่งเทอร์ราเรียมออนไลน์ โดยเน้นพื้นฐานของ CSS รวมถึงการทำให้หน้าเว็บตอบสนอง                                     |                                  [Introduction to CSS](./3-terrarium/2-intro-to-css/README.md)                                  |           Jen           |
+| 10  |            [Terrarium](./3-terrarium/solution/README.md)            |                 JavaScript Closures, การจัดการ DOM                     | สร้าง JavaScript เพื่อให้เทอร์ราเรียมทำงานเป็นอินเทอร์เฟซลากและวาง โดยเน้นที่ closures และการจัดการ DOM                            |                  [JavaScript Closures, DOM manipulation](./3-terrarium/3-intro-to-DOM-and-closures/README.md)                   |           Jen           |
+| 11  |          [Typing Game](./4-typing-game/solution/README.md)          |                          สร้างเกมพิมพ์ดีด                            | เรียนรู้วิธีใช้เหตุการณ์แป้นพิมพ์เพื่อควบคุมตรรกะของแอป JavaScript ของคุณ                                                        |                                [Event-Driven Programming](./4-typing-game/typing-game/README.md)                                |       Christopher       |
+| 12  | [Green Browser Extension](./5-browser-extension/solution/README.md) |                         การทำงานกับเว็บเบราว์เซอร์                    | เรียนรู้วิธีการทำงานของเบราว์เซอร์ ประวัติศาสตร์ และวิธีสร้างส่วนแรกของส่วนขยายเบราว์เซอร์                                       |                               [About Browsers](./5-browser-extension/1-about-browsers/README.md)                                |           Jen           |
+| 13  | [Green Browser Extension](./5-browser-extension/solution/README.md) | การสร้างฟอร์ม เรียก API และเก็บตัวแปรใน local storage                | สร้างองค์ประกอบ JavaScript ของส่วนขยายเบราว์เซอร์ของคุณเพื่อเรียก API โดยใช้ตัวแปรที่เก็บใน local storage                      |                [APIs, Forms, and Local Storage](./5-browser-extension/2-forms-browsers-local-storage/README.md)                 |           Jen           |
+| 14  | [Green Browser Extension](./5-browser-extension/solution/README.md) |          กระบวนการพื้นหลังในเบราว์เซอร์, ประสิทธิภาพเว็บ              | ใช้กระบวนการพื้นหลังของเบราว์เซอร์เพื่อจัดการไอคอนของส่วนขยาย; ศึกษาเกี่ยวกับประสิทธิภาพเว็บและการปรับแต่งบางอย่างเพื่อทำให้  |             [Background Tasks and Performance](./5-browser-extension/3-background-tasks-and-performance/README.md)              |           Jen           |
+| 15  |           [Space Game](./6-space-game/solution/README.md)           |             การพัฒนาเกมขั้นสูงเพิ่มเติมด้วย JavaScript                  | เรียนรู้เกี่ยวกับการสืบทอดโดยใช้ทั้ง Classes และ Composition และรูปแบบ Pub/Sub เพื่อเตรียมพร้อมสำหรับการสร้างเกม              |                      [Introduction to Advanced Game Development](./6-space-game/1-introduction/README.md)                       |          Chris          |
+| 16  |           [Space Game](./6-space-game/solution/README.md)           |                           การวาดบน canvas                             | เรียนรู้เกี่ยวกับ Canvas API ที่ใช้สำหรับวาดองค์ประกอบบนหน้าจอ                                                                  |                                [Drawing to Canvas](./6-space-game/2-drawing-to-canvas/README.md)                                |          Chris          |
+| 17  |           [Space Game](./6-space-game/solution/README.md)           |                   การเคลื่อนย้ายองค์ประกอบบนหน้าจอ                  | ค้นพบว่าองค์ประกอบสามารถเคลื่อนที่โดยใช้พิกัดคาร์ทีเซียนและ Canvas API ได้อย่างไร                                               |                           [Moving Elements Around](./6-space-game/3-moving-elements-around/README.md)                           |          Chris          |
+| 18  |           [Space Game](./6-space-game/solution/README.md)           |                          การตรวจจับการชน                             | ทำให้องค์ประกอบชนกันและตอบสนองต่อกันโดยใช้การกดปุ่ม แถมมีฟังก์ชัน cooldown เพื่อรักษาประสิทธิภาพของเกม                     |                              [Collision Detection](./6-space-game/4-collision-detection/README.md)                              |          Chris          |
+| 19  |           [Space Game](./6-space-game/solution/README.md)           |                             การเก็บคะแนน                              | ทำการคำนวณทางคณิตศาสตร์ตามสถานะและประสิทธิภาพของเกม                                                                             |                                    [Keeping Score](./6-space-game/5-keeping-score/README.md)                                    |          Chris          |
+| 20  |           [Space Game](./6-space-game/solution/README.md)           |                     การจบและเริ่มเกมใหม่                             | เรียนรู้เกี่ยวกับการจบเกมและการเริ่มใหม่ รวมถึงการทำความสะอาดแอสเซทและรีเซ็ตค่าตัวแปร                                          |                                [The Ending Condition](./6-space-game/6-end-condition/README.md)                                 |          Chris          |
+| 21  |         [Banking App](./7-bank-project/solution/README.md)          |                 แม่แบบ HTML และเส้นทางในเว็บแอป                      | เรียนรู้วิธีสร้างโครงสร้างของเว็บไซต์หลายหน้าโดยใช้ routing และแม่แบบ HTML                                                    |                            [HTML Templates and Routes](./7-bank-project/1-template-route/README.md)                             |          Yohan          |
+| 22  |         [Banking App](./7-bank-project/solution/README.md)          |                  สร้างฟอร์มเข้าสู่ระบบและลงทะเบียน                   | เรียนรู้เกี่ยวกับการสร้างฟอร์มและการจัดการการตรวจสอบความถูกต้อง                                                                 |                                           [Forms](./7-bank-project/2-forms/README.md)                                           |          Yohan          |
+| 23  |         [Banking App](./7-bank-project/solution/README.md)          |                   วิธีการดึงและใช้ข้อมูล                              | วิธีที่ข้อมูลไหลเข้าและออกจากแอปของคุณ วิธีการดึงข้อมูล เก็บ และกำจัดข้อมูล                                                      |                                            [Data](./7-bank-project/3-data/README.md)                                            |          Yohan          |
+| 24  |         [Banking App](./7-bank-project/solution/README.md)          |                      แนวคิดการจัดการสถานะ                            | เรียนรู้ว่าแอปของคุณเก็บสถานะอย่างไรและวิธีการจัดการมันอย่างเป็นโปรแกรม                                                        |                                [State Management](./7-bank-project/4-state-management/README.md)                                |          Yohan          |
+| 25 | [Browser/VScode Code](../../8-code-editor) | การทำงานกับ VScode | เรียนรู้วิธีการใช้ตัวแก้ไขโค้ด| [Use VScode Code Editor](./8-code-editor/1-using-a-code-editor/README.md) | Chris |
+| 26 | [AI Assistants](./9-chat-project/README.md) | การทำงานกับ AI | เรียนรู้วิธีสร้างผู้ช่วย AI ของคุณเอง | [AI Assistant project](./9-chat-project/README.md) | Chris |
+
+## 🏫 วิธีการสอน
+
+หลักสูตรของเราออกแบบโดยมีหลักการทางการสอนสองประการสำคัญ:
+* การเรียนรู้ผ่านโครงการ
+* แบบทดสอบบ่อยครั้ง
+
+โปรแกรมสอนพื้นฐานของ JavaScript, HTML และ CSS รวมถึงเครื่องมือและเทคนิคล่าสุดที่นักพัฒนาเว็บสมัยใหม่ใช้ นักเรียนจะมีโอกาสได้รับประสบการณ์ปฏิบัติจริงโดยการสร้างเกมพิมพ์ดีด เทอร์ราเรียมเสมือน ส่วนขยายเบราว์เซอร์สีเขียว เกมอวกาศสไตล์ space-invader และแอปธนาคารสำหรับธุรกิจ เมื่อจบซีรีส์นี้ นักเรียนจะมีความเข้าใจแท้จริงเกี่ยวกับการพัฒนาเว็บ
+
+> 🎓 คุณสามารถเรียนบทเรียนแรก ๆ ของหลักสูตรนี้ในรูปแบบ [Learn Path](https://docs.microsoft.com/learn/paths/web-development-101/?WT.mc_id=academic-77807-sagibbon) บน Microsoft Learn!
+
+ด้วยการทำให้เนื้อหาสอดคล้องกับโครงการ ขั้นตอนการเรียนการสอนจึงน่าสนใจขึ้นสำหรับนักเรียนและช่วยเพิ่มการจดจำแนวคิด เราเขียนบทเรียนเริ่มต้นหลายบทเกี่ยวกับพื้นฐานของ JavaScript เพื่อแนะนำแนวคิด พร้อมกับวิดีโอจากชุด "[Beginners Series to: JavaScript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)" ซึ่งมีผู้เขียนบางท่านมีส่วนร่วมในการสร้างหลักสูตรนี้
+
+นอกจากนี้ แบบทดสอบความเสี่ยงต่ำก่อนเข้าเรียนช่วยตั้งความมุ่งมั่นของนักเรียนต่อการเรียนรู้หัวข้อ ในขณะที่แบบทดสอบที่สองหลังเรียนช่วยรักษาการจดจำ เนื้อหาหลักสูตรนี้ออกแบบมาให้ยืดหยุ่นและสนุกสนาน สามารถเรียนครบหรือบางส่วนก็ได้ โครงการเริ่มต้นเล็ก ๆ และมีความซับซ้อนเพิ่มขึ้นเรื่อย ๆ ภายใน 12 สัปดาห์
+
+แม้เราจะจงใจหลีกเลี่ยงการแนะนำเฟรมเวิร์ก JavaScript เพื่อเน้นที่ทักษะพื้นฐานที่จำเป็นสำหรับนักพัฒนาเว็บก่อนจะใช้เฟรมเวิร์ก ขั้นตอนถัดไปที่ดีหลังจบหลักสูตรนี้คือการเรียนรู้ Node.js ผ่านชุดวิดีโออื่น: "[Beginner Series to: Node.js](https://channel9.msdn.com/Series/Beginners-Series-to-Nodejs/?WT.mc_id=academic-77807-sagibbon)"
+
+> เยี่ยมชม [Code of Conduct](CODE_OF_CONDUCT.md) และแนวทาง [Contributing](CONTRIBUTING.md) ของเรา เรายินดีรับฟังความคิดเห็นในการพัฒนาของคุณ!
+
+## 🧭 การเข้าถึงแบบออฟไลน์
+
+คุณสามารถรันเอกสารนี้แบบออฟไลน์โดยใช้ [Docsify](https://docsify.js.org/#/) โคลน repo นี้ ติดตั้ง Docsify บนเครื่องของคุณ แล้วในโฟลเดอร์หลักของ repo ให้พิมพ์ `docsify serve` เว็บไซต์จะถูกให้บริการผ่านพอร์ต 3000 บน localhost ของคุณ: `localhost:3000`
+
+## 📘 PDF
+
+คุณสามารถดาวน์โหลด PDF ของบทเรียนทั้งหมดได้ที่ [นี่](https://microsoft.github.io/Web-Dev-For-Beginners/pdf/readme.pdf)
+
+## 🎒 หลักสูตรอื่น ๆ
+ทีมของเราผลิตคอร์สอื่นๆ อีก! ลองดู:
+
+<!-- CO-OP TRANSLATOR OTHER COURSES START -->
+### LangChain
+[![LangChain4j for Beginners](https://img.shields.io/badge/LangChain4j%20for%20Beginners-22C55E?style=for-the-badge&&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchain4j-for-beginners)
+[![LangChain.js for Beginners](https://img.shields.io/badge/LangChain.js%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://aka.ms/langchainjs-for-beginners?WT.mc_id=m365-94501-dwahlin)
+[![LangChain for Beginners](https://img.shields.io/badge/LangChain%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=0553D6)](https://github.com/microsoft/langchain-for-beginners?WT.mc_id=m365-94501-dwahlin)
+---
+
+### Azure / Edge / MCP / Agents
+[![AZD for Beginners](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI for Beginners](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP for Beginners](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI Agents for Beginners](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Generative AI Series
+[![Generative AI for Beginners](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generative AI (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Core Learning
+[![ML for Beginners](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Data Science for Beginners](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI for Beginners](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Cybersecurity for Beginners](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Web Dev for Beginners](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT for Beginners](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![XR Development for Beginners](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+ 
+### Copilot Series
+[![Copilot for AI Paired Programming](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![Copilot for C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot Adventure](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
+<!-- CO-OP TRANSLATOR OTHER COURSES END -->
+
+## การขอความช่วยเหลือ
+
+ถ้าคุณติดปัญหาหรือมีคำถามใดๆ เกี่ยวกับการสร้างแอป AI เข้าร่วมกับผู้เรียนและนักพัฒนาที่มีประสบการณ์ในการสนทนาเกี่ยวกับ MCP นี่คือชุมชนที่ให้กำลังใจ ที่ซึ่งคำถามเป็นที่ต้อนรับและความรู้ถูกแบ่งปันอย่างเสรี
+
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
+
+ถ้าคุณมีความคิดเห็นเกี่ยวกับผลิตภัณฑ์หรือพบข้อผิดพลาดในขณะสร้างโปรเจกต์ เยี่ยมชม:
+
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+## ใบอนุญาต
+
+ที่เก็บนี้ได้รับอนุญาตภายใต้ใบอนุญาต MIT ดูไฟล์ [LICENSE](../../LICENSE) สำหรับข้อมูลเพิ่มเติม.
+
+---
+
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
+**ข้อจำกัดความรับผิดชอบ**:  
+เอกสารนี้ได้รับการแปลโดยใช้บริการแปลด้วย AI [Co-op Translator](https://github.com/Azure/co-op-translator) แม้ว่าเราจะพยายามให้ความถูกต้องสูงสุด โปรดทราบว่าการแปลอัตโนมัติอาจมีข้อผิดพลาดหรือความไม่ถูกต้อง เอกสารต้นฉบับในภาษาต้นฉบับควรถือเป็นแหล่งข้อมูลที่ถูกต้องและน่าเชื่อถือ สำหรับข้อมูลที่สำคัญ ควรใช้บริการแปลโดยมนุษย์ผู้เชี่ยวชาญ เราจะไม่รับผิดชอบต่อความเข้าใจผิดหรือการตีความที่ผิดพลาดใด ๆ ที่เกิดจากการใช้การแปลนี้
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
