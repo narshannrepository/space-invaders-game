@@ -1,0 +1,7 @@
+{
+  "name": "space-invaders-game",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve Web-Dev-For-Beginners/6-space-game/6-end-condition/your-work"
+  }
+}
