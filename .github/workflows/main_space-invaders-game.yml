@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'space-invaders-game'
           slot-name: 'Production'
-          package: .
+          package: 'Web-Dev-For-Beginners/6-space-game/6-end-condition/your-work'
           
